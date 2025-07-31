@@ -8,7 +8,7 @@ export default function BotaoPerfil() {
     const [logado, setLogado] = useState<boolean | null>(null);
 
     useEffect(() => {
-        // Exemplo usando localStorage (você pode adaptar se usar outra lógica)
+        /*Exemplo usando localStorage (você pode adaptar se usar outra lógica)*/
         const token = localStorage.getItem("token");
         setLogado(!!token);
     }, []);
