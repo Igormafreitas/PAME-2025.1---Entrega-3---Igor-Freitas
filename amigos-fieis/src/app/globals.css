@@ -11,3 +11,7 @@
     --foreground: #ededed;
   }
 }
+
+html, body {
+  height: 100%;
+}
