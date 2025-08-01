@@ -27,6 +27,6 @@ export default function BotaoSidebar({ botoes }: BotaoSidebarProps){
         </div>
 
 
-    )
+    );
 
 }

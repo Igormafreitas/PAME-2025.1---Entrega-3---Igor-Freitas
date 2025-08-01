@@ -22,5 +22,5 @@ export default function Areas({ areas }: AreasProps){
                 </div>
             ))}
         </div>
-    )
+    );
 }

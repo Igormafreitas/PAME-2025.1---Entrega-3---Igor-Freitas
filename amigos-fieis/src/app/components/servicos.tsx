@@ -22,5 +22,5 @@ export default function Servicos({ servicos }: ServicosProps){
                 </div>
             ))}
         </div>
-    )
+    );
 }

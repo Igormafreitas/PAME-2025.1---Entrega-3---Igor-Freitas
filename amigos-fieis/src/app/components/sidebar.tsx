@@ -7,7 +7,7 @@ export default function Sidebar(){
     {/*Os dados de cada botão da sidebar*/}
     const botoes = [
         {rota: "/", emoji: "🏠", titulo: "Página Inicial"},
-        {rota: "/detalhes-do-servico", emoji: "📋", titulo: "Detalhes do Serviço"}
+        {rota: "/detalhes-do-servico", emoji: "📋", titulo: "Detalhes dos Serviços"}
     ];
 
     return (
@@ -18,6 +18,5 @@ export default function Sidebar(){
                 <BotaoPerfil />
             </nav>
         </aside>
-    )
-
+    );
 }

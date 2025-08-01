@@ -9,6 +9,5 @@ export default function Titulo({ nome } : TituloProps){
         <h1 className="text-5xl font-bold">
            {nome} 
         </h1>
-    )
-
+    );
 }
