@@ -12,7 +12,7 @@ const DetalhesdoServico = () => {
     {subtitulo:"Hospedagem Diária de Gatos", imagem: "/images/hospedagem-gato.png",alternativo: "Hospedagem Diária de Gatos", descricao:"Hospedagem diária para gatos com ambiente tranquilo, aconchegante e cuidados especiais.", preco:"R$ 86,10"},
     {subtitulo:"Consultório Veterinário", imagem: "/images/veterinario-servico.png",alternativo: "Consultório Veterinário", descricao:"Atendimento veterinário no hotel com cuidado, segurança e profissionais qualificados.", preco:" à definir dependendo dos casos"},
     {subtitulo:"Banho e Tosa", imagem: "/images/banho-tosa-servico.png",alternativo: "Banho e Tosa", descricao:"Cuidados completos de higiene e beleza para seu pet, com todo o conforto do nosso hotel.", preco:"inclusos no day care e ao fim da hospedagem"},
-    {subtitulo:"Pacote Fiel Companheiro", imagem: "images/fiel-companheiro.png",alternativo: "Pacote Fiel Companheiro", descricao:"Pacote mensal de day care com 5 dias por semana de diversão, cuidado e atenção para o seu cão.", preco:"R$ 2061,23"},
+    {subtitulo:"Pacote Fiel Companheiro", imagem: "images/fiel-companheiro.png",alternativo: "Pacote Fiel Companheiro", descricao:"Pacote mensal de day care com 5 dias por semana de diversão, cuidado e atenção para o seu cão.", preco:"R$ 2061,23"}
   ];
 
   return (
